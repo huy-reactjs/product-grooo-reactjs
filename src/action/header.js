@@ -1,0 +1,3 @@
+export const HEADER = {
+    TOGGETHER_FILLTER : "TOGGETHER_FILLTER"
+};
